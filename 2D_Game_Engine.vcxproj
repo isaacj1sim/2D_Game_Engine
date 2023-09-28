@@ -29,6 +29,7 @@
   <ItemGroup>
     <ClInclude Include="src\ECS\Components.h" />
     <ClInclude Include="src\ECS\ECS.h" />
+    <ClInclude Include="src\ECS\KeyboardController.h" />
     <ClInclude Include="src\ECS\TransformComponent.h" />
     <ClInclude Include="src\ECS\SpriteComponent.h" />
     <ClInclude Include="src\Game.h" />
